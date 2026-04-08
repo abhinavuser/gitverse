@@ -1,0 +1,8 @@
+git init
+git remote add origin (link)
+git remote-v
+
+git branch
+
+git branch -M main 
+git push origin main
