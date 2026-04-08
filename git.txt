@@ -1,0 +1,7 @@
+git clone repo
+cd . folder
+git checkout -b branchname
+create a file
+git add .
+git commit -m " message "
+git push origin branchname
